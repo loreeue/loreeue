@@ -11,7 +11,7 @@
 <br>
 <div align="center">
 
-👨‍💻 Currently studying in 42 Madrid and Computer Engineering at King Juan Carlos university.
+👨‍💻 Currently studying in 42 Madrid and Computer Engineering.
 
 📫 How to reach me: **loretouzquiano@gmail.com**
 </div>
