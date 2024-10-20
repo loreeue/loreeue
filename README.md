@@ -1,7 +1,7 @@
 <div align="center">
     <h1 align="center">Hi, I'm Loreto! 👋🏼</h1>
     <a href="https://intra.42.fr/">
-        <img src="https://www.42madrid.com/wp-content/uploads/2020/05/42-Madrid-Quiz-1366x621.jpg" alt="42 Intra" width="100" />
+        <img src="https://www.42madrid.com/wp-content/uploads/2020/05/42-Madrid-Quiz-1366x621.jpg" alt="42 Intra" width="200" />
     </a>
 </div>
 
