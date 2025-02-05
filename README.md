@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,scala,html,css,javascript,anaconda,androidstudio,postman,mysql,arduino,python,git,github,bash,linux,vscode,markdown,latex,selenium,vim,cmake,docker,cpp,eclipse,githubactions,idea,maven,nodejs,r,react,spring,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,c,scala,html,css,javascript,anaconda,androidstudio,postman,mysql,arduino,python,git,github,bash,linux,vscode,markdown,latex,selenium,vim,cmake,docker,cpp,eclipse,githubactions,idea,maven,nodejs,r,react,spring" />
   </a>
 </p>
 
