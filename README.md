@@ -8,7 +8,7 @@
 <br>
 <div align="center">
 
-👨‍💻 Estoy estudiando actualmente en 42 Madrid e ingeniería informática en la universidad.
+👨‍💻 Estoy oficialmente graduada en Ingeniería Informática. Además, estoy complementando mi formación con proyectos en 42 Madrid.
 
 👉🏾 [Puedes ver mi progreso en 42 Madrid aquí](https://github.com/loreeue/42Madrid) 👈🏾
 
