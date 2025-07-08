@@ -30,3 +30,6 @@
 
 ## Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loreeue&layout=compact)
+
+## Estadísticas GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api?username=loreeue&show_icons=true&theme=dracula)
